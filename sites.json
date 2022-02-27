@@ -5599,5 +5599,14 @@
         "domains": [
             "zynga.com"
         ]
+    },
+    
+       {
+        "name": "SoloAvventure",
+        "url": "https://soloavventure.it/cancel?subscription",
+        "difficulty": "hard",
+        "domains": [
+            "soloavventure.it"
+        ]
     }
 ]
